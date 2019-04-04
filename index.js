@@ -5,6 +5,6 @@ class Driver {
     this.string = string
   }
   startDate() {
-    new Date()
+    new Date(string)
   }
 }
