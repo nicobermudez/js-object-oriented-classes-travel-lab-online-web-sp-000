@@ -4,7 +4,4 @@ class Driver {
     this.name= name
     this.string = string
   }
-  startDate() {
-    new Date(this.string)
-  }
 }
